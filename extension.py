@@ -1,3 +1,4 @@
+#An extra searching method. Although the function name is depth_first, it's not a proper DFS.
 import runner as runner_module
 import maze as maze_module
 from typing import List, Tuple, Optional
